@@ -1,3 +1,13 @@
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+[AWS Serverless Twitter Steamer With Sentiment Analysis](https://medium.com/@rlenaha2/developing-a-serverless-twitter-streamer-and-performing-sentiment-analysis-58b096623a10)
+<!-- BLOG-POST-LIST:END -->
+
+### 📕 Latest Projects
+<!-- BLOG-POST-LIST:START -->
+[Energy Calculator Using ML](http://greenplanit.us/)
+<!-- BLOG-POST-LIST:END -->
+
 ### Connect with me
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@rlenaha2)
