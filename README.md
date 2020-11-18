@@ -1,5 +1,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+Add training
+Add lambda/step functions
 [AWS Serverless Twitter Steamer With Sentiment Analysis](https://medium.com/@rlenaha2/developing-a-serverless-twitter-streamer-and-performing-sentiment-analysis-58b096623a10)
 <!-- BLOG-POST-LIST:END -->
 
