@@ -1,7 +1,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 Add training
-Add lambda/step functions
+[How To Chain AWS Lambas In Python] (https://rlenaha2.medium.com/how-to-chain-aws-lambas-in-python-351e14378194)
 [AWS Serverless Twitter Steamer With Sentiment Analysis](https://medium.com/@rlenaha2/developing-a-serverless-twitter-streamer-and-performing-sentiment-analysis-58b096623a10)
 <!-- BLOG-POST-LIST:END -->
 
